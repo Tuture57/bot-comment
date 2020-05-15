@@ -1,0 +1,78 @@
+
+[2020-05-15 12:00:30] What's new: Fixed bot crashes caused by updater. Fixed skippedaccounts not being skipped after restart. Other minor fixes/changes.
+[2020-05-15 12:00:30] Logging in... Estimated wait time: 8 seconds.
+ 
+*------------------------------------------*
+WjSKMlzgr87r version 2.6.2 by 3urobeat logged in.
+Using Mode 2: 2 child accounts logged in.
+Leader Bot has a limited account!
+Playing status: !help | 3urobeat (440,730)
+Ready after 27.18 seconds!
+*------------------------------------------*
+ 
+[2020-05-15 12:03:17] [Bot 2] Added User: 76561198390150653
+
+[2020-05-15 12:07:23] Logging in... Estimated wait time: 8 seconds.
+ 
+*------------------------------------------*
+lvUyRLB2vntK version 2.6.2 by 3urobeat logged in.
+Using Mode 2: 2 child accounts logged in.
+Leader Bot has a limited account!
+Playing status: !help | 3urobeat (440,730)
+Ready after 7.34 seconds!
+*------------------------------------------*
+ 
+[2020-05-15 12:07:56] [Main] Added User: 76561198390150653
+
+[2020-05-15 12:10:20] Logging in... Estimated wait time: 8 seconds.
+ 
+*------------------------------------------*
+lvUyRLB2vntK version 2.6.2 by 3urobeat logged in.
+Using Mode 2: 2 child accounts logged in.
+Leader Bot has a limited account!
+Playing status: !help | 3urobeat (440,730)
+Ready after 7.23 seconds!
+*------------------------------------------*
+ 
+[2020-05-15 12:10:33] [Main] Added User: 76561198390150653
+
+[2020-05-15 12:14:48] Logging in... Estimated wait time: 8 seconds.
+ 
+*------------------------------------------*
+lvUyRLB2vntK version 2.6.2 by 3urobeat logged in.
+Using Mode 2: 2 child accounts logged in.
+Leader Bot has a limited account!
+Playing status: !help | 3urobeat (440,730)
+Ready after 18.68 seconds!
+*------------------------------------------*
+ 
+[2020-05-15 12:15:15] [Main] Added User: 76561198390150653
+[2020-05-15 12:16:38] [Main] Added User: 76561198390150653
+
+[2020-05-15 12:19:59] Logging in... Estimated wait time: 8 seconds.
+ 
+*------------------------------------------*
+lvUyRLB2vntK version 2.6.2 by 3urobeat logged in.
+Using Mode 2: 2 child accounts logged in.
+Leader Bot has a limited account!
+Playing status: !help | 3urobeat (440,730)
+Ready after 7.28 seconds!
+*------------------------------------------*
+ 
+[2020-05-15 12:20:18] [Main] Added User: 76561198390150653
+[2020-05-15 12:23:12] [Main] Added User: 76561198390150653
+[2020-05-15 12:25:00] [Main] Friend message from 76561198390150653: !comment 2 76561198443406497
+[2020-05-15 12:25:01] [Main] postUserComment error: Error: The settings on this account do not allow you to add comments.
+[2020-05-15 12:25:16] [Main] Friend message from 76561198390150653: !comment 2
+[2020-05-15 12:25:17] [Main] 2 Comment(s) requested. Comment on 76561198390150653: +rep nice profile!
+[2020-05-15 12:25:23] [Bot 1] postUserComment error: Error: The settings on this account do not allow you to add comments.
+[2020-05-15 12:25:59] [Main] Friend message from 76561198390150653: !commend 2
+[2020-05-15 12:26:07] [Main] Friend message from 76561198390150653: !comment 2
+[2020-05-15 12:26:16] [Main] Friend message from 76561198390150653: !resetcoldown
+[2020-05-15 12:26:25] [Main] Friend message from 76561198390150653: !resetcolddown
+[2020-05-15 12:26:31] [Main] Friend message from 76561198390150653: !resetcooldown
+[2020-05-15 12:26:37] [Main] Friend message from 76561198390150653: !comment 3
+[2020-05-15 12:26:37] [Main] postUserComment error: Error: Unknown error
+[2020-05-15 12:26:49] [Main] Friend message from 76561198390150653: !comment 2
+[2020-05-15 12:26:50] [Main] 2 Comment(s) requested. Comment on 76561198390150653: +rep GOD!!!!!!!!!!!
+[2020-05-15 12:26:56] [Bot 1] postUserComment error: Error: The settings on this account do not allow you to add comments.
