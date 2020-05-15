@@ -1,0 +1,10 @@
+{
+    "version": "2.6.2",
+    "filetostart": "./updater.js",
+    "filetostarturl": "https://raw.githubusercontent.com/HerrEurobeat/steam-comment-service-bot/master/updater.js",
+    "botobjectfile": "./src/controller.js",
+    "firststart": false,
+    "whatsnew": "Fixed bot crashes caused by updater. Fixed skippedaccounts not being skipped after restart. Other minor fixes/changes.",
+    "timesloggedin": 5,
+    "totallogintime": 22.58
+}
